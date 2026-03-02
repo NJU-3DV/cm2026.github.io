@@ -16,7 +16,7 @@ author_profile: false
 - 时间地点：周四 3-4 节（1-16 周），苏教 B209
 - 课程网站：[计算方法 2026](https://nju-3dv.github.io/cm2026/)
 - 课程教材：《数值分析》第 5 版（李庆扬、王能超、易大义，华中科技大学出版社）
-- 课程资料：[课程总资料（NJU Box）](https://box.nju.edu.cn/)
+- 课程资料：[课程总资料（NJU Box）](https://box.nju.edu.cn/d/2b1c4a6c18cf4b9cb13d/)
 - Office hour：周四下午 1:00 pm - 2:00 pm，南雍楼东 509
 
 > - 成绩说明：

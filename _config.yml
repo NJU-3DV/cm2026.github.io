@@ -15,7 +15,7 @@ name                     : &name "NJU / 计算方法2026"
 description              : &description "南京大学智能科学与技术学院《计算方法》课程主页（2026 春季学期）"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nju-3dv.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                      # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cm2026.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "nju-3dv/cm2026.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
